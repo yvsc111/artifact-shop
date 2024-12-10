@@ -39,7 +39,6 @@ function App() {
   React.useEffect(() => {
     const fetchProducts = async () => {
       try {
-        // Be sure to replace the endpoint if your API (backend server) is running on a different port or domain
         const response = await fetch('http://localhost:8000/api/products');
         const data = await response.json();
         setProducts(data);
