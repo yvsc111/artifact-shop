@@ -14,4 +14,4 @@ npm start
 ```
 
 ### Демонстрация работы сайта
-[Видео](https://cli.vuejs.org/config/)
+[Видео](https://youtu.be/TJtQwfqGucw)
