@@ -2,7 +2,6 @@
 
 ## Как запустить проект
 ```
-
 поменять MONGO_URI в backend/.env
 
 npm install
@@ -15,4 +14,4 @@ npm start
 ```
 
 ### Демонстрация работы сайта
-See [Видео](https://cli.vuejs.org/config/).
+[Видео](https://cli.vuejs.org/config/).
